@@ -1,0 +1,5 @@
+C:\Users\usuario\source\repos\atividadeZeroDois\atividadeZeroDois\bin\Debug\atividadeZeroDois.exe.config
+C:\Users\usuario\source\repos\atividadeZeroDois\atividadeZeroDois\bin\Debug\atividadeZeroDois.exe
+C:\Users\usuario\source\repos\atividadeZeroDois\atividadeZeroDois\bin\Debug\atividadeZeroDois.pdb
+C:\Users\usuario\source\repos\atividadeZeroDois\atividadeZeroDois\obj\Debug\atividadeZeroDois.exe
+C:\Users\usuario\source\repos\atividadeZeroDois\atividadeZeroDois\obj\Debug\atividadeZeroDois.pdb
