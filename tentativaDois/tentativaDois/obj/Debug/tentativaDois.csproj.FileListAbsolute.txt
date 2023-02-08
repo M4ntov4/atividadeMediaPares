@@ -1,0 +1,6 @@
+C:\Users\usuario\source\repos\tentativaDois\tentativaDois\bin\Debug\tentativaDois.exe.config
+C:\Users\usuario\source\repos\tentativaDois\tentativaDois\bin\Debug\tentativaDois.exe
+C:\Users\usuario\source\repos\tentativaDois\tentativaDois\bin\Debug\tentativaDois.pdb
+C:\Users\usuario\source\repos\tentativaDois\tentativaDois\obj\Debug\tentativaDois.csprojAssemblyReference.cache
+C:\Users\usuario\source\repos\tentativaDois\tentativaDois\obj\Debug\tentativaDois.exe
+C:\Users\usuario\source\repos\tentativaDois\tentativaDois\obj\Debug\tentativaDois.pdb
